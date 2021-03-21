@@ -1,0 +1,1 @@
+set-cmd -c "/bin/sh /usr/local/sbin/bitwarden_start.sh"
